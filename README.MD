@@ -17,6 +17,6 @@ tegin Figmas mobiilivaated ja nende vahelised interaktsioonid
 - kirjutasin vue.js rakenduse päisesse rolli komponendi (Õpetaja, õpilane, ruum)
 
 ### Viited, lingid projektile
-[prototüüp Figmas](git.)
+![prototüüp Figmas](https://github.com/terjevolke/portfolio/blob/master/Kuvat%C3%B5mmis%202020-10-22%20111431.png.)
 
 [poolik prototüüp githubis](https://github.com/RalfHei/Tunniplaan)
